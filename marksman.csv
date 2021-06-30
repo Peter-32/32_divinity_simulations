@@ -1,10 +1,8 @@
 ﻿Skill,Level
 Ranked Damage Dealing skills:,
-Arrow storm,16
 Arrowheads,1
 Sky shot (Join combat using this),4
 Ballistic shot,9
-Farsight,13
 Barrage,4
 Ricochet,1
 First aid,1
@@ -13,16 +11,17 @@ Ranked Setup skills:,
 Haste (pre-fight buff self),1
 Adrenaline,1
 Favorable wind (pre-fight buff self),1
-Skin graft,9
 Tactical retreat,4
-Smoke cover,1
-Bless,4
 Nether swap,9
 Teleport,4
+Summon bone widow,9
+Chloroform,1
+Elemental totem,1
+Smoke cover,1
 Ranked Survival skills:,
 Chameleon cloak,1
 Fortify,1
 Armor of frost,1
 Uncanny evasion,4
 Vampiric hunger,1
-Heart of steel,4
+Bone cage,9

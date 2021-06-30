@@ -1,8 +1,5 @@
 ﻿Skill,Level
 Ranked Damage Dealing skills:,
-Deploy mass traps,9
-Mass corpse explosion,9
-Meteor shower,16
 Throw explosive trap,1
 Flaming crescendo,16
 FIreball,4
@@ -16,10 +13,10 @@ Supernova,4
 Ranked Utility skills:,
 Haste (pre-fight buff self),1
 Adrenaline,1
-Skin graft,9
 Tactical retreat (also required for traps),4
 Chameleon cloak,1
 Fortify,1
+First aid,1
 Armor of frost,1
 Worm tremor,4
 Uncanny evasion,4

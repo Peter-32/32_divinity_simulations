@@ -1,38 +1,37 @@
-﻿Skill,Level,,,,,,,,,
-Ranked Healing skills:,,,,,,,,,,
-Arcane stitch,9,,,,,,,,,
-Restoration,1,,,,,,,,,
-Healing ritual,9,,,,,,,,,
-Healing tears,1,,,,,,,,,
-Blood sucker,1,,,,,,,,,
-Cryogenic stasis,9,,,,,,,,,
-Last rites,16,,,,,,,,,
-Mend metal,4,,,,,,,,,
-Soothing cold,4,,,,,,,,,
-Equalize,16,,,,,,,,,
-Vampiric hunger,1,,,,,,,,,
-Ranked Debuff Removal skills:,,,,,,,,,,
-Armor of frost,1,,,,,,,,,
-Cleanse wounds,1,,,,,,,,,
-First aid,1,,,,,,,,,
-Raining blood,1,,,,,,,,,
-Soul mate,9,,,,,,,,,
-Peace of mind,1,,,,,,,,,
-Rain,1,,,,,,,,,
-Ranked Shielding skills:,,,,,,,,,,
-Fortify,1,,,,,,,,,
-Uncanny evasion,4,,,,,,,,,
-Smoke cover,1,,,,,,,,,
-Bless,4,,,,,,,,,
-Living on the edge,9,,,,,,,,,
-Ranked Utility skills:,,,,,,,,,,
-Teleport,4,,,,,,,,,
-Adrenaline,1,,,,,,,,,
-Skin graft,9,,,,,,,,,
-Nether swap,9,,,,,,,,,
-Haste (pre-fight buff self),1,,,,,,,,,
-Tactical retreat (or any jump),4,,,,,,,,,
-Chameleon cloak,1,,,,,,,,,
-Summon bone widow,9,,,,,,,,,
-Summon elemental totem,1,,,,,,,,,
-Favorable wind,1,,,,,,,,,
+﻿Skill,Level
+Ranked Healing skills:,
+Restoration,1
+Healing ritual,9
+Healing tears,1
+Blood sucker,1
+Cryogenic stasis,9
+Last rites,16
+Mend metal,4
+Soothing cold,4
+Equalize,16
+Vampiric hunger,1
+Ranked Debuff Removal skills:,
+Armor of frost,1
+Cleanse wounds,1
+First aid,1
+Raining blood,1
+Soul mate,9
+Peace of mind,1
+Rain,1
+Ranked Buff skills:,
+Fortify,1
+Uncanny evasion,4
+Living on the edge,9
+Enrage,4
+Death wish,4
+Favorable wind,1
+Firebrand,16
+Ranked Utility skills:,
+Teleport,4
+Adrenaline,1
+Nether swap,9
+Haste (pre-fight buff self),1
+Tactical retreat (or any jump),4
+Chameleon cloak,1
+Summon bone widow,9
+Summon elemental totem,1
